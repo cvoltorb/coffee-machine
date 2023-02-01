@@ -1,0 +1,11 @@
+.idea
+*.yaml
+*.txt
+*.py
+
+Topics/
+Coffee Machine/Chatty Bot welcomes you/
+Coffee Machine/Guess the age/
+Coffee Machine/Learning numbers/
+Coffee Machine/Multiple choice/
+Coffee Machine/Print your name/
